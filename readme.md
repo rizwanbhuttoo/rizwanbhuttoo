@@ -40,7 +40,6 @@ My experience includes developing business management platforms, CRM systems, fi
 * 📊 Experienced in MongoDB schema design, indexing, and aggregation pipelines
 * 🧾 Worked with FBR e-invoicing and financial management workflows
 * 🏗 Follow modular MVC and layered architecture patterns
-* 🌱 Currently learning NestJS, TypeScript, PostgreSQL, React.js, and DevOps
 * 🎯 Career goal: Become a Backend Architect and Product Builder
 
 ---
@@ -94,15 +93,6 @@ My experience includes developing business management platforms, CRM systems, fi
 ![MVC](https://img.shields.io/badge/Architecture-MVC%20%7C%20Layered-6C63FF)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-
-### Currently Learning
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
 
 ---
 
@@ -161,29 +151,6 @@ Backend features including:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rizwanbhuttoo&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Rizwan's GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanbhuttoo&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanbhuttoo&theme=github-dark-blue&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
